@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.angermusic.ga",
     "slug": "angermusic-bot",
     "status": "up",
-    "uptime": "95.59%",
-    "uptimeDay": "95.59%",
-    "uptimeWeek": "95.59%",
-    "uptimeMonth": "95.59%",
-    "uptimeYear": "95.59%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 5017,
     "timeDay": 5017,
     "timeWeek": 5017,
     "timeMonth": 5017,
     "timeYear": 5017,
-    "dailyMinutesDown": {
-      "2022-08-23": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "uptimekumma",
@@ -25,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/second.animeuptime.ml",
     "slug": "uptimekumma",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-23": 149
+      "2022-08-23": 370
     }
   },
   {
@@ -62,17 +60,19 @@
     "url": "https://lava2.chirailava.tk/metrics",
     "icon": "https://favicons.githubusercontent.com/lava2.chirailava.tk",
     "slug": "lavalink-backup",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 908,
     "timeDay": 908,
     "timeWeek": 908,
     "timeMonth": 908,
     "timeYear": 908,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-23": 0
+    }
   }
 ]
