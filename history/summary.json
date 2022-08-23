@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.angermusic.ga",
     "slug": "angermusic-bot",
     "status": "up",
-    "uptime": "74.32%",
-    "uptimeDay": "74.32%",
-    "uptimeWeek": "74.32%",
-    "uptimeMonth": "74.32%",
-    "uptimeYear": "74.32%",
-    "time": 4156,
-    "timeDay": 4156,
-    "timeWeek": 4156,
-    "timeMonth": 4156,
-    "timeYear": 4156,
+    "uptime": "75.70%",
+    "uptimeDay": "75.70%",
+    "uptimeWeek": "75.70%",
+    "uptimeMonth": "75.70%",
+    "uptimeYear": "75.70%",
+    "time": 3611,
+    "timeDay": 3611,
+    "timeWeek": 3611,
+    "timeMonth": 3611,
+    "timeYear": 3611,
     "dailyMinutesDown": {
       "2022-08-23": 167
     }
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-23": 650
+      "2022-08-23": 686
     }
   },
   {
@@ -44,17 +44,17 @@
     "url": "https://lava.chirailava.tk/metrics",
     "icon": "https://favicons.githubusercontent.com/lava.chirailava.tk",
     "slug": "lavalink",
-    "status": "up",
-    "uptime": "97.59%",
-    "uptimeDay": "97.59%",
-    "uptimeWeek": "97.59%",
-    "uptimeMonth": "97.59%",
-    "uptimeYear": "97.59%",
-    "time": 1742,
-    "timeDay": 1742,
-    "timeWeek": 1742,
-    "timeMonth": 1742,
-    "timeYear": 1742,
+    "status": "down",
+    "uptime": "97.71%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "97.71%",
+    "uptimeMonth": "97.71%",
+    "uptimeYear": "97.71%",
+    "time": 1516,
+    "timeDay": 1516,
+    "timeWeek": 1516,
+    "timeMonth": 1516,
+    "timeYear": 1516,
     "dailyMinutesDown": {
       "2022-08-23": 16
     }
@@ -65,16 +65,16 @@
     "icon": "https://favicons.githubusercontent.com/lava2.chirailava.tk",
     "slug": "lavalink-backup",
     "status": "up",
-    "uptime": "63.34%",
-    "uptimeDay": "63.34%",
-    "uptimeWeek": "63.34%",
-    "uptimeMonth": "63.34%",
-    "uptimeYear": "63.34%",
-    "time": 1012,
-    "timeDay": 1012,
-    "timeWeek": 1012,
-    "timeMonth": 1012,
-    "timeYear": 1012,
+    "uptime": "65.31%",
+    "uptimeDay": "65.31%",
+    "uptimeWeek": "65.31%",
+    "uptimeMonth": "65.31%",
+    "uptimeYear": "65.31%",
+    "time": 787,
+    "timeDay": 787,
+    "timeWeek": 787,
+    "timeMonth": 787,
+    "timeYear": 787,
     "dailyMinutesDown": {
       "2022-08-23": 238
     }
