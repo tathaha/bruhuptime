@@ -23,7 +23,7 @@ status-website: # Status website (optional)
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  theme: ocean
+  theme: light
   themeUrl: https://raw.githubusercontent.com/tathaha/uptimes/master/assets/uptimes.css
   apiBaseUrl: https://api.github.com
 
