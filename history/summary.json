@@ -4,19 +4,19 @@
     "url": "https://www.angermusic.ga",
     "icon": "https://favicons.githubusercontent.com/www.angermusic.ga",
     "slug": "angermusic-bot",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
-    "time": 6401,
-    "timeDay": 6401,
-    "timeWeek": 6401,
-    "timeMonth": 6401,
-    "timeYear": 6401,
+    "status": "up",
+    "uptime": "95.59%",
+    "uptimeDay": "95.59%",
+    "uptimeWeek": "95.59%",
+    "uptimeMonth": "95.59%",
+    "uptimeYear": "95.59%",
+    "time": 5017,
+    "timeDay": 5017,
+    "timeWeek": 5017,
+    "timeMonth": 5017,
+    "timeYear": 5017,
     "dailyMinutesDown": {
-      "2022-08-23": 0
+      "2022-08-23": 7
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-23": 143
+      "2022-08-23": 149
     }
   },
   {
