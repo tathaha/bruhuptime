@@ -10,6 +10,7 @@ sites:
     url: https://lava.chirailava.tk/metrics
   - name: Lavalink Backup
     url: https://lava2.chirailava.tk/metrics
+
 status-website: # Status website (optional)
   cname: tathaha.github.io # Custom domain CNAME
   baseUrl: /bruhuptime
