@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/www.angermusic.ga",
     "slug": "angermusic-bot",
     "status": "up",
-    "uptime": "75.90%",
-    "uptimeDay": "75.90%",
-    "uptimeWeek": "75.90%",
-    "uptimeMonth": "75.90%",
-    "uptimeYear": "75.90%",
+    "uptime": "77.79%",
+    "uptimeDay": "77.79%",
+    "uptimeWeek": "77.79%",
+    "uptimeMonth": "77.79%",
+    "uptimeYear": "77.79%",
     "time": 3611,
     "timeDay": 3611,
     "timeWeek": 3611,
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-23": 692
+      "2022-08-24": 58,
+      "2022-08-23": 693
     }
   },
   {
@@ -45,18 +46,18 @@
     "icon": "https://favicons.githubusercontent.com/lava.chirailava.tk",
     "slug": "lavalink",
     "status": "up",
-    "uptime": "96.94%",
-    "uptimeDay": "96.94%",
-    "uptimeWeek": "96.94%",
-    "uptimeMonth": "96.94%",
-    "uptimeYear": "96.94%",
+    "uptime": "97.92%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "97.92%",
+    "uptimeYear": "97.92%",
     "time": 1523,
     "timeDay": 1523,
     "timeWeek": 1523,
     "timeMonth": 1523,
     "timeYear": 1523,
     "dailyMinutesDown": {
-      "2022-08-23": 22
+      "2022-08-23": 16
     }
   },
   {
@@ -65,11 +66,11 @@
     "icon": "https://favicons.githubusercontent.com/lava2.chirailava.tk",
     "slug": "lavalink-backup",
     "status": "up",
-    "uptime": "65.59%",
-    "uptimeDay": "65.59%",
-    "uptimeWeek": "65.59%",
-    "uptimeMonth": "65.59%",
-    "uptimeYear": "65.59%",
+    "uptime": "68.29%",
+    "uptimeDay": "68.29%",
+    "uptimeWeek": "68.29%",
+    "uptimeMonth": "68.29%",
+    "uptimeYear": "68.29%",
     "time": 787,
     "timeDay": 787,
     "timeWeek": 787,
