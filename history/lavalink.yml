@@ -1,7 +1,7 @@
 url: https://lava.chirailava.tk/metrics
-status: down
-code: 500
-responseTime: 23666
-lastUpdated: 2022-09-04T13:07:58.080Z
+status: up
+code: 200
+responseTime: 813
+lastUpdated: 2022-09-04T13:38:49.956Z
 startTime: Tue Aug 23 2022 12:26:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
