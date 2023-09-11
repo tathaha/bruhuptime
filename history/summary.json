@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.angermusic.ga.ico",
     "slug": "angermusic-bot",
     "status": "down",
-    "uptime": "34.73%",
+    "uptime": "34.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "33.34%",
+    "uptimeYear": "33.10%",
     "time": 2311,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1788,
+    "timeYear": 1785,
     "dailyMinutesDown": {
-      "2023-09-10": 40,
+      "2023-09-11": 38,
+      "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 1440,
@@ -265,8 +266,7 @@
       "2022-10-04": 185,
       "2022-10-03": 21,
       "2022-09-20": 133,
-      "2022-09-14": 27,
-      "2022-09-11": 20
+      "2022-09-14": 27
     }
   },
   {
@@ -275,18 +275,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/second.animeuptime.ml.ico",
     "slug": "uptimekumma",
     "status": "down",
-    "uptime": "5.09%",
+    "uptime": "5.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.24%",
+    "uptimeYear": "2.97%",
     "time": 713,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 815,
+    "timeYear": 869,
     "dailyMinutesDown": {
-      "2023-09-10": 40,
+      "2023-09-11": 38,
+      "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 1440,
@@ -649,7 +650,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lava.chirailava.tk.ico",
     "slug": "lavalink",
     "status": "down",
-    "uptime": "45.16%",
+    "uptime": "45.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -660,7 +661,8 @@
     "timeMonth": 0,
     "timeYear": 2291,
     "dailyMinutesDown": {
-      "2023-09-10": 40,
+      "2023-09-11": 38,
+      "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 1440,
@@ -913,8 +915,7 @@
       "2022-09-20": 199,
       "2022-09-19": 356,
       "2022-09-16": 29,
-      "2022-09-14": 26,
-      "2022-09-11": 751
+      "2022-09-14": 26
     }
   },
   {
@@ -923,18 +924,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lava2.chirailava.tk.ico",
     "slug": "lavalink-backup",
     "status": "down",
-    "uptime": "45.32%",
+    "uptime": "45.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "43.21%",
+    "uptimeYear": "42.93%",
     "time": 2536,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2360,
+    "timeYear": 2362,
     "dailyMinutesDown": {
-      "2023-09-10": 40,
+      "2023-09-11": 38,
+      "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 1440,
@@ -1184,8 +1186,7 @@
       "2022-09-19": 152,
       "2022-09-16": 30,
       "2022-09-14": 26,
-      "2022-09-12": 57,
-      "2022-09-11": 66
+      "2022-09-12": 57
     }
   }
 ]
